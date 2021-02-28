@@ -100,9 +100,11 @@ def np_chunk(tree):
     for np in tree.subtrees(lambda t: t.label() == "NP"):
         dup = False
         cnt = 0
+        # Only one Noun in Noun Phase
         for n in np.subtrees(lambda t: t.label() == "N"):
             cnt += 1
         if cnt == 1:
+            # Check for duplicate
             for chunk in chunks_list:
                 for np_tree in chunk.subtrees(lambda t: t.label() == "NP"):
                     if np == np_tree:
@@ -110,10 +112,12 @@ def np_chunk(tree):
             if not dup:
                 chunks_list.append(np)
     #print(f"Chunks After NP: {chunks_list}")
+    # Check for left over stand alone noun
     for n in tree.subtrees(lambda t: t.label() == "N"):
         dup = False
         for chunk in chunks_list:
             #print(f"Chunk: {chunk}")
+            # Check for duplicate
             for n_tree in chunk.subtrees(lambda t: t.label() == "N"):
                 #print(f"Checking: {n} with {n_tree}")
                 if n == n_tree:
