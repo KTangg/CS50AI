@@ -8,10 +8,18 @@
 - Using IMDB's database as reference.
 
 ### Tic-Tac-Toe
-- Application of state, action, result, terminal and Minimax
+- Application of State, Action, Result, Terminal and Minimax
 - Create an Tic-Tac-Toe AI that play against human
 - AI will never lose to human
 
 ## Project 1 Knowledge
 
-###
+### Knights
+- Application of Sentence and Logical operation
+- Create an AI that play Knight/Knave Puzzle 
+- Teaching Logical Knowledge to AI and let it solve Knight/Knave Puzzle
+
+### Minesweeper
+- Application of Set knowledge, Sentence and Logical operation
+- Create an AI that play Minesweeper game
+- Teach knowledge in set form to AI and compute the knowledge about mines & safe position on board
