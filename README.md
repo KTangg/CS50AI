@@ -23,3 +23,9 @@
 - Application of Set knowledge, Sentence and Logical operation
 - Create an AI that play Minesweeper game
 - Teach knowledge in set form to AI and compute the knowledge about mines & safe position on board
+
+## Project 2 Uncertainty
+
+### Pagerank
+- Create an Algorithm to rank page base on link from another page
+- PageRank algorithm was created by Google’s co-founders (including Larry Page, for whom the algorithm was named)
