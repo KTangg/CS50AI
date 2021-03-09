@@ -65,3 +65,20 @@
 ## Project 6 Language
 
 ### Parser
+- Application of Natural Language Processing, Tokenization, Context-Free grammar and NLTK
+- Write an AI to parse sentences and extract noun phrases
+- Sentence: Holmes sat.
+    
+### Questions
+- Application of Natural Language Processing, Tokenization, IDF(inverse document frequency), TF-IDF(term frequency–inverse document frequency) and NLTK
+- Write an AI to answer questions base on given resources
+- AI will select most related text file and search for answer in the file
+#### Example
+Query: What are the types of supervised learning?
+Types of supervised learning algorithms include Active learning , classification and regression.
+
+Query: When was Python 3.0 released?
+Python 3.0 was released on 3 December 2008.
+
+Query: How do neurons connect in a neural network?
+Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.
