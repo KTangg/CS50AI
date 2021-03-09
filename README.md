@@ -54,9 +54,14 @@
 - More on NIM: https://en.wikipedia.org/wiki/Nim
 
 ## Project 5 Neural Network
+
+### Traffic
 - Application of Neural Network, Node Activation Method, Convolution Layers, Pooling Layers, TensorFLOW(keras), scikit-learn and Open-CV
 - Create/Design Neural Network to classify 43 different traffic sign appears in photographs
 - <a href="https://www.youtube.com/watch?v=AD0RTo5dkUE">Watch Program on Action</a>
 - Using <a href="https://benchmark.ini.rub.de/?section=gtsrb&subsection=news"> German Traffic Sign Recognition Benchmark (GTSRB) dataset </a>
 - Try <a href="https://playground.tensorflow.org/">TensorFlow Playground </a>
 
+## Project 6 Language
+
+### Parser
