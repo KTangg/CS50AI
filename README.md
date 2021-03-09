@@ -29,3 +29,6 @@
 ### Pagerank
 - Create an Algorithm to rank page base on link from another page
 - PageRank algorithm was created by Google’s co-founders (including Larry Page, for whom the algorithm was named)
+
+### Heredity
+- Write an AI to assess the likelihood that a person will have a particular genetic trait
