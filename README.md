@@ -32,3 +32,12 @@
 
 ### Heredity
 - Write an AI to assess the likelihood that a person will have a particular genetic trait
+
+
+## Project 3 Optimization
+
+### Crossword
+- Application of Node Consistency, Arc Consistency(AC3) and Backtracking search algorithm
+- Write an AI to generate crossword puzzles on various puzzle form and words choice
+
+## Project 4 Learning
