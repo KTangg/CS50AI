@@ -1,3 +1,7 @@
 # CS50AI
 
-This folder contain my CS50AI class projects.
+## Project 0 Search Algorithm
+
+### Degree
+- Application of Node, Frontier and Search algorithm
+- 
