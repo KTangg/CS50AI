@@ -18,6 +18,7 @@
 - Application of Sentence and Logical operation
 - Create an AI that play Knight/Knave Puzzle 
 - Teaching Logical Knowledge to AI and let it solve Knight/Knave Puzzle
+- More on Knight/Knave: https://en.wikipedia.org/wiki/Knights_and_Knaves
 
 ### Minesweeper
 - Application of Set knowledge, Sentence and Logical operation
@@ -31,6 +32,7 @@
 - PageRank algorithm was created by Google’s co-founders (including Larry Page, for whom the algorithm was named)
 
 ### Heredity
+- Application of Probability knowledge
 - Write an AI to assess the likelihood that a person will have a particular genetic trait
 
 
@@ -41,3 +43,17 @@
 - Write an AI to generate crossword puzzles on various puzzle form and words choice
 
 ## Project 4 Learning
+
+### Shopping
+- Application of Supervised Machine Learning, KNN Classifier and scikit-learn
+- Write an AI to predict whether online shopping customers will complete a purchase
+
+### Nim
+- Application of Reinforcement Learning and Q-Learning 
+- Create an AI that teaches itself to play Nim through reinforcement learning
+- More on NIM: https://en.wikipedia.org/wiki/Nim
+
+## Project 5 Neural Network
+- Application of Neural Network, Node Activation Method, 
+- Program on Action: https://www.youtube.com/watch?v=AD0RTo5dkUE
+
